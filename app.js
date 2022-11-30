@@ -28,3 +28,5 @@ let job1 = "nursing";
 let job2 = "programming";
 
 console.log(myFirstJob);
+
+
