@@ -41,6 +41,7 @@ change, and which might change?). Then, change these variables to const.
 language = "kurdish";
 // isIsland = true;
 
+
 /////////////LECTURE: Basic Operators///////////////
 /* 1. If your country split in half, and each half would contain half the population,
 then how many people would live in each half?
@@ -72,4 +73,5 @@ console.log(population < averageOfACountry);
 //5.
 const description = `${country} is in ${continent}, and its ${population} million people speak ${language}`;
 console.log(description);
+
 
