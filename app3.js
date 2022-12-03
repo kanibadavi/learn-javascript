@@ -1,15 +1,15 @@
 //let
-let age = 23
+let age = 23;
 console.log(age);
-age = 24
+age = 24;
 console.log(age);
 
 //const(recommended)
 const birthMonth = 9;
-birthMonth = 8;//xxxx
+birthMonth = 8; //xxxx
 
 //var
-var job = "teacher"
+var job = "teacher";
 console.log(job);
-job = "programmer"
+job = "programmer";
 console.log(job);
