@@ -12,7 +12,6 @@ console.log(country);
 console.log(continent);
 console.log(population);
 
-
 ///////LECTURE: Data Types/////////
 /* 1. Declare a variable called 'isIsland' and set its value according to your
 country. The variable should hold a Boolean value. Also declare a variable
@@ -29,18 +28,16 @@ console.log(typeof population);
 console.log(typeof country);
 console.log(typeof language);
 
-
 //////////LECTURE: let, const and var/////////////
 /* 1. Set the value of 'language' to the language spoken where you live (some
 countries have multiple languages, but just choose one)
 2. Think about which variables should be const variables (which values will never
 change, and which might change?). Then, change these variables to const.
 3. Try to change one of the changed variables now, and observe what happens */
-//1. 
+//1.
 
 language = "kurdish";
 // isIsland = true;
-
 
 /////////////LECTURE: Basic Operators///////////////
 /* 1. If your country split in half, and each half would contain half the population,
@@ -67,11 +64,9 @@ let fineland = 6;
 console.log(population > fineland);
 
 //4.
-let averageOfACountry = 33
+let averageOfACountry = 33;
 console.log(population < averageOfACountry);
 
 //5.
 const description = `${country} is in ${continent}, and its ${population} million people speak ${language}`;
 console.log(description);
-
-
