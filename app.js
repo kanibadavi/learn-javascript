@@ -1,9 +1,8 @@
-//values and variables 
-
+//values and variables
 
 console.log("kani");
 console.log(23);
-console.log(23+78);
+console.log(23 + 78);
 
 //assigning a value to variable
 //variable variableName = value
@@ -28,5 +27,3 @@ let job1 = "nursing";
 let job2 = "programming";
 
 console.log(myFirstJob);
-
-
